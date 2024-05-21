@@ -1,0 +1,35 @@
+.flexbox {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 250px;
+    border: 3px solid red;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+        }
+
+        .flexbox div {
+            border: 2px solid orange;
+            background-color: red;
+            width: 50%;
+            margin: 15px;
+        }
+
+        .flex-container1 {
+            /*flex-wrap: wrap-reverse;modifica o comportamento do elemento consegue permitir que quebre a linha*/
+           /*flex-direction: row;posiciona os elementos na tela*/
+            flex-flow: row wrap;
+        }
+
+        .flex-container2 {
+            justify-content: space-evenly;
+        }
+
+        .flex-container2 div {
+            width: 30px;
+            margin: 0;
+        }
