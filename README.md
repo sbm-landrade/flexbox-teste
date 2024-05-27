@@ -4,4 +4,4 @@ Repositório criado para aplicação prática dos conceitos do curso "HTML5 e CS
 
 # Prática e estudos:
 
-Repositório criado para aplicaçaõ ptática dos conceitos de Flexbox (CSS Flexible Box Layout).
+Repositório criado para aplicação prática dos conceitos de Flexbox (CSS Flexible Box Layout).
